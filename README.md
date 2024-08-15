@@ -17,3 +17,5 @@
 # The stock with the lowest percentage increase
 # The stock with the greatest total volume
 
+# I would like to point out that I had help of a totur and Xpert learning assistant.
+
